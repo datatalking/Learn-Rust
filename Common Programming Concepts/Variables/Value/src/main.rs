@@ -1,4 +1,4 @@
 fn main() {
-    let x: i32;
+    let x=8;
     println!("Number {}", x);
 }
